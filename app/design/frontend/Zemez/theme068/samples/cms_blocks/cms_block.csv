@@ -1,0 +1,119 @@
+"block_id","title","identifier","content","creation_time","update_time","is_active"
+"1","Footer column content 1","footer_col_1","<ul>
+    <li><a href=""{{store direct_url=""about-us""}}"">About Us</a></li>
+    <li><a href=""{{store direct_url=""customer-service""}}"">Customer Service</a></li>
+    <li><a href=""{{store url=""""}}template-settings"">Template Settings</a></li>
+</ul>
+
+","2016-03-12 05:30:44","2016-04-18 19:21:52","1"
+"4","Footer column content 2","footer_col_2","<div class=""footer-col"">
+    <h4>Why buy from us</h4>
+    <div class=""footer-col-content"">
+        <ul>
+            <li><a href=""{{store url=""""}}shipping-delivery"">Shipping & Delivery</a></li>
+            <li><a href=""{{store url=""""}}secure-payment"">Secure payment</a></li>
+            <li><a href=""{{store url=""""}}support"">Support</a></li>
+            <li><a href=""{{store url=""""}}guarantee"">Guarantee</a></li>
+            <li><a href=""{{store url=""""}}terms-conditions"">Terms & Conditions</a></li>
+        </ul>
+    </div>
+</div>","2016-03-12 05:33:05","2017-02-06 14:43:38","1"
+"7","Footer column content 3","footer_col_3","<div class=""footer-col"">
+    <h4>My account</h4>
+    <div class=""footer-col-content"">
+        <ul>
+            <li><a href=""{{store url='customer/account/login/'}}"">Sign In</a></li>
+            <li><a href=""{{store url='checkout/cart/'}}"">View Cart</a></li>
+            <li><a href=""{{store url='wishlist/'}}"">My Wishlist</a></li>
+            <li><a href=""{{store url=""""}}faq"">FAQ</a></li>
+        </ul>
+    </div>
+</div>
+","2016-03-12 05:35:20","2017-02-06 14:44:07","1"
+"10","Footer column 1 title","footer_col_1_title","<h4>Information</h4>","2017-06-23 06:27:49","2017-06-23 06:27:49","1"
+"11","Payment","payment_1","<ul class=""list-inline list-payment"">
+	<li><span class=""icon icon-xs fa fa-cc-visa""></span></li>
+	<li><span class=""icon icon-xs fa fa-cc-mastercard""></span></li>
+	<li><span class=""icon icon-xs fa fa-cc-paypal""></span></li>
+	<li><span class=""icon icon-xs fa fa-cc-discover""></span></li>
+	<li><span class=""icon icon-xs fa fa-cc-stripe""></span></li>
+</ul>","2017-06-23 06:28:45","2017-06-23 06:28:45","1"
+"12","Additional information","add-info","<div class=""add-info"">
+	<ul>
+		<li>
+			<span class=""add-info_title"">
+				<i class=""material-icons-local_phone""></i>
+				<a href=""tel:+3(800) 2345-6789"">+3(800) 2345-6789</a>
+			</span>
+			<p>Round-the-clock free hotline (24/7)</p>
+		</li>
+		<li>
+			<span class=""add-info_title"">
+				<i class=""material-icons-local_shipping""></i>
+				<span>Free Shipping</span>
+			</span>
+			<p>We provide you with fast and free delivery regardless of the product size and value.</p>
+		</li>
+		<li>
+			<span class=""add-info_title"">
+				<i class=""material-icons-thumb_up""></i>
+				<span>Satisfaction Guarantee</span>
+			</span>
+			<p>We are committed to your satisfaction with every order.</p>
+		</li>
+	</ul>
+</div>","2017-06-23 06:29:14","2017-06-23 06:29:14","1"
+"13","Mega menu banner","mm_ban","<div class=""mm_block-2"">
+	<div class=""mm_block-2_inner"">
+		<img src=""{{view url='images/mm_ban.jpg'}}"" alt=""mm_block-2_img"">
+		<div class=""mm_block-2_txt"">
+			<span>A great<br>selection<br>of bikes</span>
+			<a href=""{{store url='product-types.html'}}"">Learn More</a>
+		</div>		
+	</div>
+</div>","2017-06-23 13:33:40","2017-06-23 14:46:22","1"
+"14","Banner 1","banner-1","<div class=""banner-1"">
+	<img src=""{{view url='images/ban-1.jpg'}}"" alt=""banner-1_img"">
+	<div class=""banner-1_txt"">
+		<div class=""banner-1_txt_inner"">
+			<span class=""banner-1_txt-small"">choose your perfect bike at</span>
+			<div class=""banner-1_txt-big"">
+				<div class=""banner-1_txt-big_1"">
+					<span>50</span>			
+				</div>
+				<div class=""banner-1_txt-big_2"">
+					<span>%</span>
+					<span>off</span>			
+				</div>
+			</div>
+			<span class=""banner-1_txt-md"">Huge Savings!</span>
+		<a href=""vitamins.html"" class=""banner-1-link"">Learn More</a>
+		</div>
+	</div>
+</div>","2017-06-29 13:12:07","2017-06-29 14:21:18","1"
+"15","Banners","banner_block","<div class=""banners"">
+	<ul class=""row"">
+		<li class=""col-md-6"">
+			<div class=""banner_inner"">
+				<img src=""{{view url='images/ban-2.jpg'}}"" alt=""banner_img"" class=""banner_bg"">
+				<div class=""banner_txt"">
+					<span>get an extra</span>
+					<strong>-20% off</strong>
+					<p>Vintage Ladies Bella </p>
+					<a href=""{{store url='bikes-frames.html'}}"" class=""banners_link"">Shop Now</a>
+				</div>
+			</div>
+		</li>
+		<li class=""col-md-6"">			
+			<div class=""banner_inner"">
+				<img src=""{{view url='images/ban-3.jpg'}}"" alt=""banner_img"" class=""banner_bg"">
+				<div class=""banner_txt"">
+					<span>Super Sale</span>
+					<strong>-50% off</strong>
+					<p>Vintage Ladies Bella </p>
+					<a href=""{{store url='bikes-frames.html'}}"" class=""banners_link"">Shop Now</a>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>","2017-06-29 15:16:05","2017-06-30 05:41:04","1"
