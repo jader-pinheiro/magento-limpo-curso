@@ -105,7 +105,7 @@ class Topmenu extends \Magento\Theme\Block\Html\Topmenu
             $counter++;
         }
 
-        if (count($colBrakes) && $limit) {
+        if ($colBrakes && count($colBrakes) && $limit) {
             $html = '<li class="column"><ul>' . $html . '</ul></li>';
         }
 
