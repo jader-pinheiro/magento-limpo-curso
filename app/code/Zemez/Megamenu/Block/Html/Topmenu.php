@@ -76,9 +76,10 @@ class Topmenu extends \Magento\Theme\Block\Html\Topmenu
                 $child->setClass($outermostClass);
             }
 
-            if (count($colBrakes) && $colBrakes[$counter]['colbrake']) {
+            if ($colBrakes && count($colBrakes) && $colBrakes[$counter]['colbrake']) {
                 $html .= '</ul></li><li class="column"><ul>';
             }
+
 
             $html .= '<li ' . $this->_getRenderedMenuItemAttributes($child) . '>';
             $html .= '<a href="' . $child->getUrl() . '" ' . $outermostClassCode . '>';
