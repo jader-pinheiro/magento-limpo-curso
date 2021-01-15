@@ -122,6 +122,7 @@ return [
         'Magento_CatalogWidget' => 1,
         'Magento_Wishlist' => 1,
         'Magento_WishlistAnalytics' => 1,
+        'ADM_QuickDevBar' => 1,
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
