@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b57ff52d0b49b599bc1c2e32a8f5f933",
+    "content-hash": "97bcaf958d38f38d54ceba9c80d399fc",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -13448,6 +13448,47 @@
                 "security"
             ],
             "time": "2018-02-14T22:37:14+00:00"
+        },
+        {
+            "name": "mage2tv/magento-cache-clean",
+            "version": "1.0.34",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mage2tv/magento-cache-clean.git",
+                "reference": "6b0a1cee5e9ff9b677a1e049ea6ed0708ee2206f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mage2tv/magento-cache-clean/zipball/6b0a1cee5e9ff9b677a1e049ea6ed0708ee2206f",
+                "reference": "6b0a1cee5e9ff9b677a1e049ea6ed0708ee2206f",
+                "shasum": ""
+            },
+            "suggest": {
+                "magento/project-community-edition": "*"
+            },
+            "bin": [
+                "bin/cache-clean.js"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Vinai Kopp",
+                    "email": "vinai@netzarbeiter.com",
+                    "role": "lead"
+                }
+            ],
+            "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
+            "homepage": "https://github.com/mage2tv/magento-cache-clean",
+            "keywords": [
+                "development",
+                "magento",
+                "utility"
+            ],
+            "time": "2020-12-07T10:07:40+00:00"
         },
         {
             "name": "magento/magento2-functional-testing-framework",

@@ -133,6 +133,7 @@ return [
         'MSP_Common' => 1,
         'MSP_DevTools' => 1,
         'Magento_PaypalReCaptcha' => 1,
+        'Magenteiro_PrimeiroModulo' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
