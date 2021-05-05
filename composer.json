@@ -11,7 +11,8 @@
         "magento/product-community-edition": "2.2.11",
         "composer/composer": "@alpha",
         "vpietri/adm-quickdevbar": "^0.1.17",
-        "msp/devtools": "^1.2"
+        "msp/devtools": "^1.2",
+        "mageplaza/module-google-recaptcha": "^4.0"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "~1.2.0",

@@ -16,7 +16,13 @@ class TesteCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $output->writeln("Teste Pirmeiro modulo console");
+        $output->writeln("Teste Primeiro modulo console");
+        $output->writeln($this->formatText('>','<'));
 
+    }
+
+    public function formatText($prefix, $sufix){
+
+        return $prefix . "algum texto" . $sufix;
     }
 }
