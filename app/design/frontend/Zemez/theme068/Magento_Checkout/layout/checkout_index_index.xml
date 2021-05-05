@@ -7,6 +7,7 @@
 -->
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
+        <!-- <head><script src="//www.google.com/recaptcha/api.js?render=6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI" src_type="url" /></head> -->
         <move element="logo" destination="header-wrapper.grid-container_inner"/>
         <referenceBlock name="page.preloader" remove="true" />
     </body>
